@@ -24,14 +24,6 @@ A aplicação simula o funcionamento de uma agência bancária permitindo criar 
 - Compile e execute o código Java.
 - Siga as instruções no menu principal para criar contas, realizar operações bancárias e listar contas.
 
-## Contribuições
-- Explique como os outros podem contribuir para o seu projeto.
-- Descreva diretrizes para contribuições, código de conduta, etc.
-
-## Licença
-- Indique a licença sob a qual o projeto está disponível.
-- Forneça detalhes sobre os direitos de uso, modificação e distribuição.
-
 ## Autor
 - Lucas Albuquerque Caitano
 - www.linkedin.com/in/lucas-caitano
